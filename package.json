@@ -1,0 +1,23 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "seeteef challenge",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitulbipin/security.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitulbipin/security/issues"
+  },
+  "homepage": "https://github.com/mitulbipin/security#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
